@@ -19,7 +19,7 @@ npm install react-tooltip
 1 . Require react-tooltip after installation
 
 ```js
-import ReactTooltip from 'react-tooltip'
+import ReactTooltip from 'react-tooltip';
 ```
 
 2 . Add data-tip = "your placeholder" to your element
